@@ -1,6 +1,5 @@
 import sys
-import hashlib
-import os
+import hashlib, os
 from collections import OrderedDict as od
 
 def get_hashsums(file_path):
